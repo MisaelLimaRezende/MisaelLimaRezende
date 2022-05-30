@@ -1,4 +1,4 @@
-### OLÁ eu sou o MIsael Lima Rezende👋
+### OLÁ eu sou o Misael Lima Rezende👋
 
 <!--
 **MisaelLimaRezende/MisaelLimaRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
